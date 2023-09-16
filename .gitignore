@@ -1,1 +1,7 @@
 node_modules/
+#ignore to all files starts with s
+\z*
+#ignore the .env file
+.env
+#ignore the directory
+artifacts/
